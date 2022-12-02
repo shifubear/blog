@@ -1,1 +1,7 @@
+# Jupyter junk
 **/.ipynb_checkpoints/**
+
+# qmd junk 
+*.html
+**/*_files/**
+tutorial.qmd
